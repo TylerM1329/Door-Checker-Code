@@ -4,7 +4,7 @@
 Designed by Tyler McNeil
 08/07/2024
 This code is for demonstration purposes. It was created using an example code that built the basis of the communication portion of the system.
-My additions make it specific to my application.
+My additions make it specific to my application. In this instance, the master will send a signal to the slave via string when a sensor is triggered. The slave reacts to this string causing an LED to light up depending on the case.
 
 These are two seperate codes meant to run on their own ESP32 units. If using as reference, make sure to separate them
 
